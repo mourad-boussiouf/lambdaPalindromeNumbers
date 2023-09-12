@@ -1,1 +1,1 @@
-# lamdaPalindromeNumbers
+# lambdaPalindromeNumbers
